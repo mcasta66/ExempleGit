@@ -1,1 +1,2 @@
 Fichero 2 creado en remoto
+Cambios en fichero2
